@@ -1,4 +1,4 @@
-In the project directory, you can run this Covid_tracker app in you browser to see it functioning :
+## In the project directory, you can run this Covid_tracker app in you browser to see it functioning :
 
 ### `npm start` 
 
