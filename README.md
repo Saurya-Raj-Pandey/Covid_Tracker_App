@@ -1,3 +1,9 @@
+#### This website fetches the data from the Api given below  and displays the data in real time 
+## React
+## Html
+## Css
+## json
+
 ## In the project directory, you can run this Covid_tracker app in you browser to see it functioning :
 
 ### `npm start` 
