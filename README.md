@@ -6,9 +6,11 @@
 # Css
 # json
 
-## In the project directory, you can run this Covid_tracker app in you browser to see it functioning :
+## In the project directory, you can run :
 
-### `npm start` 
+### `npm start`
+
+### By which you will be able to veiw the Covidapp in your browser
 
 ##  The above satement will  load the website in your  http://localhost:3000/
 
